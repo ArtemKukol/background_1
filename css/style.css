@@ -1,0 +1,15 @@
+body {
+   font: 18px/1.5 sans-serif;
+   
+   color: #181818;
+   background-color: #181818;
+ }
+ 
+ .image {
+   width: 500px;
+   height: 258px;
+   
+   background-image: url("https://assets.codepen.io/1425525/34439-3-white-border-frame-transparent-image.png"),
+   url("https://assets.codepen.io/1425525/tota_ill_1.jpg");
+}
+ }
